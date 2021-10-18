@@ -1,5 +1,5 @@
 ## PKBU for Android - Electronic Investigations Case Records Maintenance
-<img src="https://img.shields.io/github/license/tantalusReaching/PKBU_Android_ElectronicInvestigationsCRM">
+<img src="https://img.shields.io/github/license/tantalusReaching/pkbu-electronic-investigations-crm-android">
 
 This is the Android implementation of a mobile data entry and communication tool, created to assist case agents and forensic analysts throughout an investigation that involves electronic devices and digital information.  Uses Google Firebase for account access and data storage.
 <br>
